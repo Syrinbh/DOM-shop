@@ -1,0 +1,87 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Main content */
+  main {
+    padding: 20px;
+  }
+  /* section card */
+
+.card {
+  display: flex;
+}
+
+.card img {
+  width: 200px;
+}
+
+.cards {
+  margin: 5% 30%;
+}
+
+.unitt-price {
+  margin-left: 150px;
+}
+
+i {
+  cursor: pointer;
+}
+
+
+/* Total price  */
+
+.total-price-container {
+  text-align: center;
+  margin-bottom: 100px;
+  
+}
+ 
+  
+ 
+  /* ----- button heart -----*/ 
+
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
